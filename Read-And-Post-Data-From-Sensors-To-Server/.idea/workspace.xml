@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="91434057-2310-4ba9-8e7d-62bd1a7100f1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Map/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test/app/src/androidTest/java/com/example/test/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test/app/src/main/java/com/example/test/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test/app/src/test/java/com/example/test/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem/app/src/androidTest/java/com/example/wildlifemonitoringsystem/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem/app/src/main/ic_launcher-web.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem/app/src/main/ic_normal-web.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem/app/src/main/ic_not_normal-web.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem/app/src/main/java/com/example/wildlifemonitoringsystem/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem/app/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem/app/src/main/res/layout/layout_home.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem/app/src/main/res/mipmap-anydpi-v26/ic_normal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem/app/src/main/res/mipmap-anydpi-v26/ic_normal_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem/app/src/main/res/mipmap-anydpi-v26/ic_not_normal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem/app/src/main/res/mipmap-anydpi-v26/ic_not_normal_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem/app/src/main/res/mipmap-hdpi/ic_normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem/app/src/main/res/mipmap-hdpi/ic_normal_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem/app/src/main/res/mipmap-hdpi/ic_not_normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem/app/src/main/res/mipmap-hdpi/ic_not_normal_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem/app/src/main/res/mipmap-mdpi/ic_normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem/app/src/main/res/mipmap-mdpi/ic_normal_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem/app/src/main/res/mipmap-mdpi/ic_not_normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem/app/src/main/res/mipmap-mdpi/ic_not_normal_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem/app/src/main/res/mipmap-xhdpi/ic_normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem/app/src/main/res/mipmap-xhdpi/ic_normal_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem/app/src/main/res/mipmap-xhdpi/ic_not_normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem/app/src/main/res/mipmap-xhdpi/ic_not_normal_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem/app/src/main/res/mipmap-xxhdpi/ic_normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem/app/src/main/res/mipmap-xxhdpi/ic_normal_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem/app/src/main/res/mipmap-xxhdpi/ic_not_normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem/app/src/main/res/mipmap-xxhdpi/ic_not_normal_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem/app/src/main/res/mipmap-xxxhdpi/ic_normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem/app/src/main/res/mipmap-xxxhdpi/ic_normal_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem/app/src/main/res/mipmap-xxxhdpi/ic_not_normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem/app/src/main/res/mipmap-xxxhdpi/ic_not_normal_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem/app/src/test/java/com/example/wildlifemonitoringsystem/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem2/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem2/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem2/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem2/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem2/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem2/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem2/app/src/androidTest/java/com/example/wildlifemonitoringsystem/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem2/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem2/app/src/main/java/com/example/wildlifemonitoringsystem/activity/DetailsActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem2/app/src/main/java/com/example/wildlifemonitoringsystem/activity/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem2/app/src/main/java/com/example/wildlifemonitoringsystem/activity/MapsActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem2/app/src/main/java/com/example/wildlifemonitoringsystem/adapter/AnimalAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem2/app/src/main/java/com/example/wildlifemonitoringsystem/api/ApiClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem2/app/src/main/java/com/example/wildlifemonitoringsystem/api/ApiInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem2/app/src/main/java/com/example/wildlifemonitoringsystem/model/AllAnimals.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem2/app/src/main/java/com/example/wildlifemonitoringsystem/model/AnimalDetails.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem2/app/src/main/java/com/example/wildlifemonitoringsystem/model/BodyTemprAll.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem2/app/src/main/java/com/example/wildlifemonitoringsystem/model/GeoLocationAll.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem2/app/src/main/java/com/example/wildlifemonitoringsystem/model/HeartBeatAll.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem2/app/src/main/java/com/example/wildlifemonitoringsystem/model/SurrTemprAll.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem2/app/src/main/java/com/example/wildlifemonitoringsystem/utils/Constants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem2/app/src/main/res/drawable/ic_cancel_black_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem2/app/src/main/res/drawable/ic_check_black_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem2/app/src/main/res/drawable/ic_check_circle_black_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem2/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem2/app/src/main/res/drawable/ic_map_black_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem2/app/src/main/res/drawable/ic_refresh_black_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem2/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem2/app/src/main/res/layout/activity_maps.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem2/app/src/main/res/layout/layout_details.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem2/app/src/main/res/layout/layout_home.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem2/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem2/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem2/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem2/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem2/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem2/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem2/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem2/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem2/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem2/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem2/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem2/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem2/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem2/app/src/test/java/com/example/wildlifemonitoringsystem/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem2/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem2/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem2/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem2/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem2/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem2/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WildlifeMonitoringSystem2/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/.idea/untitled.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/ServiceAccountKey.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled1/.idea/untitled1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled1/hello" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled3/ServiceAccountKey.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled3/data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled3/main.py" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="167" selection-start-line="167" selection-end-line="167" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/readserialdata.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>serial</find>
+      <find>bodyTempr</find>
+      <find>here</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/main1.py" />
+        <option value="$PROJECT_DIR$/main4.py" />
+        <option value="$PROJECT_DIR$/main3.py" />
+        <option value="$PROJECT_DIR$/readserialdata.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/main2.py" />
+        <option value="$PROJECT_DIR$/main.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="676" />
+    <option name="width" value="697" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="COMportReadPython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="COMportReadPython" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\explo\Desktop\Pycharm\COMportReadPython" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="COMportReadPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="COMportReadPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\explo\Desktop\Pycharm\COMportReadPython\main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="COMportReadPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="readserialdata" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="COMportReadPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/readserialdata.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="COMportReadPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.main2" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.readserialdata" />
+        <item itemvalue="Python.main4" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="91434057-2310-4ba9-8e7d-62bd1a7100f1" name="Default Changelist" comment="" />
+      <created>1562738342928</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562738342928</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.81178397" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3289689" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.5008183" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.45499182" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.45171848" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3289689" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.5008183" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.7528642" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python37/site-packages/serial/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python37/site-packages/serial/serialutil.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="239" selection-start-line="239" selection-end-line="239" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python37/site-packages/serial/serialwin32.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="61" selection-start-line="61" selection-end-line="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main3.py" />
+    <entry file="file://$PROJECT_DIR$/main1.py" />
+    <entry file="file://$PROJECT_DIR$/main4.py" />
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="167" selection-start-line="167" selection-end-line="167" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readserialdata.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
